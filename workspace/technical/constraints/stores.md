@@ -2,7 +2,7 @@
 
 - Android ships as an App Bundle to Google Play; iOS as an IPA via TestFlight and
   then the App Store. Both use the fastlane lanes in `fastlane/`.
-- Signing keys and store credentials live in the company vault; they never enter
+- Signing keys and store credentials live in the {{ orgName }} vault; they never enter
   the repository and the agent never handles them.
 - Store submission, phased rollout and any halt of a rollout are performed by the
   release manager manually outside the agent.

@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "key": "app",
+      "label": "Flutter app",
+      "description": "Flutter application",
+      "required": true,
+      "overrideContent": false
+    }
+  ]
+}

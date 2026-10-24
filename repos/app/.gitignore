@@ -1,0 +1,27 @@
+# Dart/Flutter tool state
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Build output
+build/
+
+# Android signing and local config
+android/key.properties
+**/*.keystore
+
+# iOS generated files
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/ephemeral/
+
+# Test and coverage output
+coverage/
+
+# IDE and OS noise
+.idea/
+.DS_Store
+Thumbs.db

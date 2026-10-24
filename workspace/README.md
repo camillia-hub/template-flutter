@@ -1,6 +1,6 @@
 # App workspace: Flutter
 
-This workspace builds **<App>**, a Flutter application for Android and iOS that
+This workspace builds **{{ projectName }}**, a Flutter application for Android and iOS that
 ships on a fortnightly release train (see `repositories/app.md` and
 `conventions/release-train.md`).
 
